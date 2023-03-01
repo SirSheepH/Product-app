@@ -1,6 +1,6 @@
 ## License
 
-This project is licensed under (MIT license)[https://mit-license.org/]
+This project is licensed under [MIT license](https://mit-license.org/)
 
 ## Available Scripts
 
